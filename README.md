@@ -9,4 +9,4 @@ hra běží v jednom souboru ve kterém se nachází:
 3. funkce, která umožňuje dělat jednotlivé tahy
 4. funkce přidávající nové dílky do hry
 5. vykreslující funkce
-6. cyklus využívající funkce pro každý tah ve hře
+6. cyklus využívající funkce, zajišťující chod hry
